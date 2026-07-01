@@ -1100,8 +1100,8 @@ github.com/digitalocean/godo v1.193.0 h1:CSbbUl5LufT75KPNvex3vDnBYjY2RfJWs7T3Ac7
 github.com/digitalocean/godo v1.193.0/go.mod h1:xQsWpVCCbkDrWisHA72hPzPlnC+4W5w/McZY5ij9uvU=
 github.com/distribution/reference v0.6.0 h1:0IXCQ5g4/QMHHkarYzh5l+u8T3t73zM5QvfrDyIgxBk=
 github.com/distribution/reference v0.6.0/go.mod h1:BbU0aIcezP1/5jX/8MP0YiH4SdvB5Y4f/wlDRiLyi3E=
-github.com/dlclark/regexp2 v1.11.5 h1:Q/sSnsKerHeCkc/jSTNq1oCm7KiVgUMZRDUoRu0JQZQ=
-github.com/dlclark/regexp2 v1.11.5/go.mod h1:DHkYz0B9wPfa6wondMfaivmHpzrQ3v9q8cnmRbL6yW8=
+github.com/dlclark/regexp2 v1.12.0 h1:0j4c5qQmnC6XOWNjP3PIXURXN2gWx76rd3KvgdPkCz8=
+github.com/dlclark/regexp2 v1.12.0/go.mod h1:DHkYz0B9wPfa6wondMfaivmHpzrQ3v9q8cnmRbL6yW8=
 github.com/dlmiddlecote/sqlstats v1.0.2 h1:gSU11YN23D/iY50A2zVYwgXgy072khatTsIW6UPjUtI=
 github.com/dlmiddlecote/sqlstats v1.0.2/go.mod h1:0CWaIh/Th+z2aI6Q9Jpfg/o21zmGxWhbByHgQSCUQvY=
 github.com/docker/go-connections v0.7.0 h1:6SsRfJddP22WMrCkj19x9WKjEDTB+ahsdiGYf0mN39c=
@@ -1636,8 +1636,8 @@ github.com/grafana/grafana-openapi-client-go v0.0.0-20231213163343-bd475d63fb79 
 github.com/grafana/grafana-openapi-client-go v0.0.0-20231213163343-bd475d63fb79/go.mod h1:wc6Hbh3K2TgCUSfBC/BOzabItujtHMESZeFk5ZhdxhQ=
 github.com/grafana/grafana-plugin-sdk-go v0.292.1 h1:8wvKUqIOtbHC43WIr6kheIGdV6q4SMyWU9+jxcUA6mE=
 github.com/grafana/grafana-plugin-sdk-go v0.292.1/go.mod h1:RM/Ku+hoyicIO/UVsGeFJfed/3/iXaCT3opiwE69THY=
-github.com/grafana/grafana-prometheus-datasource/pkg/promlib v0.0.11 h1:dN402Jd/FsSi6lvfCJR5lXiv7j2ucbPV/ZJCjOX4+zc=
-github.com/grafana/grafana-prometheus-datasource/pkg/promlib v0.0.11/go.mod h1:rmYghozhFPZ5p+o8erXoCQ3BuSVDOuT5Y8dXWBUIXjs=
+github.com/grafana/grafana-prometheus-datasource/pkg/promlib v0.0.12 h1:K4Yw4IQ5ae19BJO4LdC6oxE2ejaAijYxva837FUXUEs=
+github.com/grafana/grafana-prometheus-datasource/pkg/promlib v0.0.12/go.mod h1:nub9WUzOgGoLNYiYySuXdIqu26NnubpEVkXQS+ASVVA=
 github.com/grafana/jsonparser v0.0.0-20241004153430-023329977675 h1:U94jQ2TQr1m3HNyE8efSdyaBbDrdPaWImXyenuKZ/nw=
 github.com/grafana/jsonparser v0.0.0-20241004153430-023329977675/go.mod h1:796sq+UcONnSlzA3RtlBZ+b/hrerkZXiEmO8oMjyRwY=
 github.com/grafana/loki/pkg/push v0.0.0-20250823105456-332df2b20000 h1:/5LKSYgLmAhwA4m6iGUD4w1YkydEWWjazn9qxCFT8W0=
@@ -2649,8 +2649,8 @@ go.opentelemetry.io/collector/internal/testutil v0.153.0 h1:GJEaPLohao+7wtm08yGf
 go.opentelemetry.io/collector/internal/testutil v0.153.0/go.mod h1:Jkjs6rkqs973LqgZ0Fe3zrokQRKULYXPIf4HuqStiEE=
 go.opentelemetry.io/collector/pdata v1.59.0 h1:lO1IcaO9+HUVdFh+RATCUG3oTP+uCZzsE7HJ0MjmzRc=
 go.opentelemetry.io/collector/pdata v1.59.0/go.mod h1:AH6M14C6qhesnUpcvigkvFMiX9KtdSWQENMBNyNhe7I=
-go.opentelemetry.io/collector/pdata/pprofile v0.150.0 h1:Ae+FxmYXDdcqeLqIAdNSO3YGxco7RS2mIMTdjvavfso=
-go.opentelemetry.io/collector/pdata/pprofile v0.150.0/go.mod h1:tEBeGysY/LpIh39NLoQQl3qmUBOF9wyH5p/fmn7smzM=
+go.opentelemetry.io/collector/pdata/pprofile v0.153.0 h1:IurcS9g28cVrtIvc1oUVN8vSm5j0t79Pd8GZgd1PV28=
+go.opentelemetry.io/collector/pdata/pprofile v0.153.0/go.mod h1:nX33dLKrwdoz/FQeIs6JKPeZcS1KbU2VIOwH7K0F05c=
 go.opentelemetry.io/contrib/bridges/prometheus v0.68.0 h1:w3zlHYETbDwXyWHZlyyR58ZC39XGi8rAhkBgUgJ9d5w=
 go.opentelemetry.io/contrib/bridges/prometheus v0.68.0/go.mod h1:GR/mClR2nn7vE8RLwxKjoBNg+QtgdDhRzxVa93koy5o=
 go.opentelemetry.io/contrib/detectors/gcp v1.42.0 h1:kpt2PEJuOuqYkPcktfJqWWDjTEd/FNgrxcniL7kQrXQ=
